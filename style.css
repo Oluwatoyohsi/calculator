@@ -1,0 +1,35 @@
+body{
+	font-family: sans-serif;
+	text-align: center;
+	display: flex;
+	position: relative;
+	justify-content: center;
+	height: 90vh;
+	font-size: 50px;
+	background: rgba(116, 53, 53, 0.61);
+	cursor: 
+}
+.for{
+	box-shadow: 
+	0em 1.2em 1.2em rgba(0, 0, 0, 0.3),
+	inset oem 1.2em 1.2em rgba(0, 0, 0, 0.3);
+}
+.center{
+	background: black;
+	border-radius: 25px;
+	width: 350px;
+}
+input[type="text"]{
+	height: 60px;
+	width: 240px;
+	margin-top: 40px;
+	border-radius: 3px;
+}
+input[type="button"]{
+	height: 30px;
+	width: 40px;
+	cursor: pointer;
+	margin-top: 20px;
+	border-radius: 3px;
+	text-align: center;
+}
